@@ -1,0 +1,11 @@
+C:\Users\Dell1\Documents\GitHub\APPLICATION-DEVELOPMENT-1\NunitTestingDemo\NunitTestingDemo\bin\Debug\NunitTestingDemo.exe.config
+C:\Users\Dell1\Documents\GitHub\APPLICATION-DEVELOPMENT-1\NunitTestingDemo\NunitTestingDemo\bin\Debug\NunitTestingDemo.exe
+C:\Users\Dell1\Documents\GitHub\APPLICATION-DEVELOPMENT-1\NunitTestingDemo\NunitTestingDemo\bin\Debug\NunitTestingDemo.pdb
+C:\Users\Dell1\Documents\GitHub\APPLICATION-DEVELOPMENT-1\NunitTestingDemo\NunitTestingDemo\bin\Debug\nunit.framework.dll
+C:\Users\Dell1\Documents\GitHub\APPLICATION-DEVELOPMENT-1\NunitTestingDemo\NunitTestingDemo\bin\Debug\nunit.framework.xml
+C:\Users\Dell1\Documents\GitHub\APPLICATION-DEVELOPMENT-1\NunitTestingDemo\NunitTestingDemo\obj\Debug\NunitTestingDemo.csproj.AssemblyReference.cache
+C:\Users\Dell1\Documents\GitHub\APPLICATION-DEVELOPMENT-1\NunitTestingDemo\NunitTestingDemo\obj\Debug\NunitTestingDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell1\Documents\GitHub\APPLICATION-DEVELOPMENT-1\NunitTestingDemo\NunitTestingDemo\obj\Debug\NunitTestingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dell1\Documents\GitHub\APPLICATION-DEVELOPMENT-1\NunitTestingDemo\NunitTestingDemo\obj\Debug\NunitTestingDemo.csproj.CopyComplete
+C:\Users\Dell1\Documents\GitHub\APPLICATION-DEVELOPMENT-1\NunitTestingDemo\NunitTestingDemo\obj\Debug\NunitTestingDemo.exe
+C:\Users\Dell1\Documents\GitHub\APPLICATION-DEVELOPMENT-1\NunitTestingDemo\NunitTestingDemo\obj\Debug\NunitTestingDemo.pdb
